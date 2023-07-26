@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/sounds/I Miss You.ogg</SourceFile>
+  <SourceTime>2023-06-25T00:42:09.8625575-04:00</SourceTime>
+  <DestFile>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/Content/sounds/I Miss You.xnb</DestFile>
+  <DestTime>2023-06-25T00:44:20.8625014-04:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/Content/sounds/I Miss You.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

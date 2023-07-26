@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/crosshairs.png","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1982015
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/galleryFont.spritefont","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2071,37919,0.163056
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/green_ball_mod.png","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/green_ball_mod.xnb","TextureProcessor","Texture2DContent",642,16469,0.0016135
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/pixel_crosshairs.png","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/pixel_crosshairs.xnb","TextureProcessor","Texture2DContent",145,4181,0.0010168
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/sky.png","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.3694968
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/sounds/I Miss You.ogg","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/sounds/I Miss You.xnb","SongProcessor","SongContent",1434799,128,1.6470366
+"/home/brittneyjuliet/monogame/projects/shootingGallery/Content/target.png","/home/brittneyjuliet/monogame/projects/shootingGallery/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0023468

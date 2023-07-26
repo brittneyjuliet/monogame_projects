@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/crosshairs.png</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/galleryFont.spritefont</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/green_ball_mod.png</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/pixel_crosshairs.png</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/sky.png</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/sounds/I Miss You.ogg</File>
+    <File>/home/brittneyjuliet/monogame/projects/shootingGallery/Content/target.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

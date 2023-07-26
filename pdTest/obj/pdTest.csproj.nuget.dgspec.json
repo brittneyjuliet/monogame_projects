@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/brittneyjuliet/monogame/projects/pdTest/pdTest.csproj": {}
+  },
+  "projects": {
+    "/home/brittneyjuliet/monogame/projects/pdTest/pdTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/brittneyjuliet/monogame/projects/pdTest/pdTest.csproj",
+        "projectName": "pdTest",
+        "projectPath": "/home/brittneyjuliet/monogame/projects/pdTest/pdTest.csproj",
+        "packagesPath": "/home/brittneyjuliet/.nuget/packages/",
+        "outputPath": "/home/brittneyjuliet/monogame/projects/pdTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/brittneyjuliet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LibPDBinding": {
+              "target": "Package",
+              "version": "[0.13.0, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

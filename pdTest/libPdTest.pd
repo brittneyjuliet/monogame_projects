@@ -1,0 +1,13 @@
+#N canvas 2074 985 450 300 12;
+#X obj 56 53 osc~ 440;
+#X obj 56 78 *~ 0.25;
+#X obj 56 103 *~;
+#X obj 57 155 dac~;
+#X obj 163 54 s onOff;
+#X obj 163 19 tgl 15 0 empty empty empty 17 7 0 10 #fcfcfc #000000
+#000000 0 1;
+#X obj 164 87 r onOff;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 1 0 3 0;
+#X connect 5 0 4 0;
